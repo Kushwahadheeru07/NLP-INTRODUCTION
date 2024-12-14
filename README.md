@@ -6,20 +6,30 @@ Natural Language Processing (NLP) is a field at the intersection of artificial i
 
 🧹 Data Cleaning Techniques
 
-Text preprocessing is critical for achieving accurate and reliable NLP results. This project incorporates:
+Text preprocessing is critical for achieving accurate and reliable NLP results. 
 
 Text Normalization: Lowercasing, removing special characters, punctuation, and numbers.
+
 Tokenization: Splitting text into individual tokens or meaningful chunks.
+
 Stopword Removal: Eliminating non-essential words (e.g., "and," "the").
+
 Stemming & Lemmatization: Reducing words to their root forms to improve consistency.
+
 Noise Removal: Filtering out URLs, hashtags, mentions, and other irrelevant data.
+
 Spell Correction: Addressing typos to enhance text quality.
 
 
 🔍 Machine Learning Approach
+
 Workflow:
 Feature Extraction: Techniques like TF-IDF, Word2Vec, and BERT embeddings.
+
 Model Selection:
+
 Traditional models: Logistic Regression, Naïve Bayes, SVM.
+
 Deep Learning: LSTM, GRU, Transformers (e.g., BERT, GPT).
+
 Evaluation Metrics: Accuracy, F1-Score, Precision, and Recall for measuring performance.
